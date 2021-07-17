@@ -3,6 +3,13 @@
 # Files and directories created by pub
 .dart_tool/
 .packages
+.metadata
+deliverypanel.iml
+pubspec.lock
+pubspec.yaml
+web/
+test/
+android/
 build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
